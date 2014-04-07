@@ -12,11 +12,12 @@ nav{
   position: fixed;
   height: 70px;
   width: 100%;
-
+  text-align: center;
 }
 
 nav a{
   color: white;
+  padding: 0 20px;
   font-size: 2em;
 }
 
