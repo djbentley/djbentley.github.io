@@ -21,6 +21,14 @@ a:hover{
   color: #3CA0D0;  
 }
 
+
+.subtitle{
+  color: gray;  
+  position: absolute;
+  bottom: 0;
+  right: 0;
+}
+
 nav{
   /* font-family: 'Iceland', cursive; */
   font-family: 'Gudea', sans-serif;
