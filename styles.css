@@ -1,0 +1,27 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+body{
+  background-color: black;
+  color; white;
+}
+
+nav{
+  position: fixed;
+  height: 70px;
+  width: 100%;
+
+}
+
+nav a{
+  color: white;
+  font-size: 2em;
+}
+
+.main-content{
+  font-size: 10em;
+  color: white;
+  padding-top: 2rem;
+}
