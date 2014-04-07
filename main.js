@@ -1,3 +1,5 @@
-body{
-  background-color: black;
-}
+$(document).ready(function(){
+
+
+
+});
