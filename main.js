@@ -15,7 +15,7 @@
       var className  = e.target.className;
       var content = document.querySelector('.main-content .' + className);
       content.style.display = "block";
-      e.target.style.color = "#FFD200";
+      e.target.style.color = "#3CA0D0";
     }
   });
 
